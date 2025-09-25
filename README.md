@@ -1,2 +1,7 @@
-# Geoprocessamento
-Projeto_persistencia_poliglota
+# Projeto: Persistência Poliglota (SQLite + MongoDB) e Geoprocessamento
+
+## Como rodar
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
